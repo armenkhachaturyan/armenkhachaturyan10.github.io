@@ -1,0 +1,25 @@
+body{
+
+}
+.box{
+	width: 300px;
+	height: 400px;
+	display: block;
+	color: white;
+	border:2px grey solid;
+	position: fixed;
+	left: 50%;
+	margin-left: -150px;
+	top:50%;
+	margin-top: -200px; 
+}
+p{
+	color: black;
+}
+.ex{
+	display: inline-block;
+	width: 105px;
+	height: 180px;
+	margin:30px 20px 30px 20px;
+	padding: 0;
+}
